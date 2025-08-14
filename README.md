@@ -33,7 +33,7 @@ You just need a modern web browser that supports HTML5, CSS3, and JavaScript (e.
 ### **Installation**
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Dhaneshvsp/memory-card-game.git
+   https://github.com/Dhaneshvsp/Memory-Card-Game.git
    ```
 2. **Navigate to the project folder**
    ```bash
